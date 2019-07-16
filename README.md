@@ -4,6 +4,8 @@
 [![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/TrustWallet/trust-wallet-ios/branches/master/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/TrustWallet/trust-wallet-ios/branches/master)
 [![License](https://img.shields.io/badge/license-GPL3-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
 
+#### 欢迎访问以太坊钱包开源iOS版，它是基于TrustWallet的iOS 1.72.0 (260) 做了小部分功能升级的一个新的版本，我把它定义为2.0.0，主要用于对以太坊钱包开发技术感兴趣的同学进行学习。
+
 [<img src="https://raw.githubusercontent.com/TrustWallet/trust-wallet-ios/master/resources/iphone_cover.png">](https://itunes.apple.com/us/app/trust-ethereum-wallet/id1288339409)
 
 [<img src=resources/app-store-badge.png height="88">](https://itunes.apple.com/us/app/trust-ethereum-wallet/id1288339409)
