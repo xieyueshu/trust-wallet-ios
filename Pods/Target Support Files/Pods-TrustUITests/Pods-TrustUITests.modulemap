@@ -1,0 +1,6 @@
+framework module Pods_TrustUITests {
+  umbrella header "Pods-TrustUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
